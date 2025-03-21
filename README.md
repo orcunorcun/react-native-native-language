@@ -32,7 +32,7 @@ In `./android/app/src/main/AndroidManifest.xml`
 android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|layoutDirection|locale"
 ```
 
-In `./android/app/src/main/java/com/a2bapp/MainActivity.kt`
+In `./android/app/src/main/java/com/yourapp/MainActivity.kt`
 
 ```kotlin
 package com.exampleproject
